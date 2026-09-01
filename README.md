@@ -2,6 +2,9 @@
   <img src="./github-banner.png.jpg" width="100%" alt="Md. Ahbab Hussain Arabi">
 </p>
 
+# Hi 👋, I'm Md. Ahbab Hussain Arabi
+
+### 🚀 I'm currently learning AI-Driven Full-Stack Web Engineering
 ---
 
 ## 👨‍💻 About Me
